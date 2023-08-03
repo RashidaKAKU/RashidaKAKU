@@ -9,3 +9,4 @@
 ![](https://img.shields.io/badge/Windows-%E7%8E%AF%E5%A2%83-blue)
 ![](https://img.shields.io/badge/VS%20CODE-%E7%BC%96%E8%BE%91%E5%99%A8-blue)
 
+[![Get Bing Wallpaper](https://github.com/RashidaKAKU/BingWallpapers/actions/workflows/bing_wallpaper.yml/badge.svg)](https://github.com/RashidaKAKU/BingWallpapers/actions/workflows/bing_wallpaper.yml)
